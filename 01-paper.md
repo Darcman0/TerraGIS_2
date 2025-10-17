@@ -1,12 +1,12 @@
 ---
-title: How to MyST, without being mystified 🧙
+title: Terra GIS 🧙
 subject: Tutorial
 subtitle: Evolve your markdown documents into structured data
 short_title: How to MyST
 authors:
   - name: Rowan Cockett
     affiliations:
-      - Executable Books
+      - USSEIN
       - Curvenote
     orcid: 0000-0002-7859-8394
     email: rowan@curvenote.com
