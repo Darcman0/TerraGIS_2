@@ -7,3 +7,4 @@ leafmap
 matplotlib
 numpy
 vega_datasets
+ipywidgets
