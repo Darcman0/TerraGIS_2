@@ -15,6 +15,7 @@ project:
     - file: README.md
     - file: 01-paper.md
     - file: 02-notebook.ipynb
+    - file: 
     - title: Geospatial
       children:
         - file: chapters/chapter-01.ipynb
@@ -34,5 +35,5 @@ site:
       url: https://openscience.gishub.org
     - title: MyST
       url: https://mystmd.org
-    - title: WEb person
-      url : https://github.com/Darcman0?tab=repositories
+    - title: Site personnelle
+      url : https://github.com/Darcman0

@@ -4,7 +4,7 @@ subject: Tutorial
 subtitle: Evolve your markdown documents into structured data
 short_title: How to MyST
 authors:
-  - name: Rowan Cockett
+  - name: Terra GIS
     affiliations:
       - USSEIN
       - Curvenote
@@ -24,7 +24,7 @@ exports:
     article_type: Report
 ---
 
-# How to MyST, without being mystified 🧙
+# About Terra GIS 🧙
 
 ## Background
 
