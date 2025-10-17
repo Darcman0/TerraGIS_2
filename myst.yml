@@ -15,7 +15,7 @@ project:
     - file: README.md
     - file: 01-paper.md
     - file: 02-notebook.ipynb
-    - file: 
+    - file: 03-app_test.ipynb
     - title: Geospatial
       children:
         - file: chapters/chapter-01.ipynb
