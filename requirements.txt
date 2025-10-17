@@ -10,3 +10,4 @@ numpy
 vega_datasets
 ipywidgets
 jupyterlab
+ipyleaflet
