@@ -2,6 +2,7 @@
 altair
 ipywidgets
 jupyterlab
+ipyleaflet
 # To interactively browser Jupyter content with MyST
 jupyterlab_myst
 leafmap
